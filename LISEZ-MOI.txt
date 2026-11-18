@@ -1,4 +1,4 @@
-MON ÉQUILIBRE 2.2
+MON ÉQUILIBRE 2.3
 
 Contenu :
 - index.html : application
@@ -6,10 +6,13 @@ Contenu :
 - sw.js : cache hors connexion
 - icon.svg : icône
 
-NOUVEAUTÉ 2.2
+NOUVEAUTÉS 2.2
 - Onglet Recettes avec des idées classées par moment de la journée.
 - Les recettes peuvent être chargées dans le composeur d'assiette pour les ajouter au journal alimentaire.
 - Les recettes personnelles enregistrées restent disponibles dans l'onglet Recettes.
+
+NOUVEAUTÉ 2.3
+- Menu de la semaine ajouté à l'onglet Recettes à partir des repas et quantités fournis.
 
 INSTALLATION SUR IPHONE
 1. Héberge le contenu de ce dossier sur une adresse HTTPS (par exemple GitHub Pages).
