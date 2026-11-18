@@ -1,0 +1,26 @@
+MON ÉQUILIBRE 2.1
+
+Contenu :
+- index.html : application
+- manifest.webmanifest : configuration installable
+- sw.js : cache hors connexion
+- icon.svg : icône
+
+INSTALLATION SUR IPHONE
+1. Héberge le contenu de ce dossier sur une adresse HTTPS (par exemple GitHub Pages).
+2. Ouvre cette adresse dans Safari sur l'iPhone.
+3. Appuie sur Partager, puis « Sur l'écran d'accueil ».
+4. Active « Ouvrir comme app » si l'option est proposée, puis Ajouter.
+
+DONNÉES
+Les données sont stockées localement dans le navigateur (localStorage).
+Utilise Réglages > Télécharger ma sauvegarde régulièrement.
+Pour changer de téléphone, restaure le fichier JSON sur le nouvel appareil.
+
+LIMITES
+- Cette version ne synchronise pas les données entre appareils.
+- Le composeur d'assiette calcule automatiquement les calories, protéines, glucides et lipides selon les quantités saisies.
+- Le catalogue contient des aliments courants et recherche les produits de marque dans Open Food Facts. La recherche de marque nécessite Internet.
+- Open Food Facts est une base collaborative : certaines fiches peuvent être incomplètes ou inexactes. Vérifie toujours les valeurs sur l'emballage du produit.
+- Les aliments recherchés sont transmis à Open Food Facts ; tes repas, mensurations, favoris et recettes restent stockés localement sur l'appareil.
+- Pour la mise à jour, remplace les fichiers hébergés par la nouvelle version.

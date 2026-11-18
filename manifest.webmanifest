@@ -1,0 +1,17 @@
+{
+  "name": "Mon équilibre",
+  "short_name": "Mon équilibre",
+  "description": "Ton carnet personnel de repas, mensurations et bien-être.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#e9e4d8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
